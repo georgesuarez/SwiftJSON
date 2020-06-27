@@ -14,3 +14,4 @@ Changes/Updates:
 		x Subscriptions: DONE!!
 	- Revamp Subscription view controller to be simpler?
 		- when upgrading tier level make sure to save change internally and in firebase 
+	- Revamp Intervention ViewControllers to access data from JSON files instead of ExerciseData model class

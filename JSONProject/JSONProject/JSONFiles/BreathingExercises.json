@@ -3,10 +3,10 @@
         "T":"1",
         "Interventions":[
             {
-                "N":"Inhale = Exhale",
-                "CS":["Video-Guide"],
-                "L":"https://amywheeler.com/App%20content/breathing%20videos%20level%201/G-Inhalation=Exhalation.mp4",
-                "TD":""
+                "Name":"Inhale = Exhale",
+                "ChoiceS":["Video-Guide"],
+                "videoLink":"https://amywheeler.com/App%20content/breathing%20videos%20level%201/G-Inhalation=Exhalation.mp4",
+                "TextDescription":""
             },
             {
                 "N":"Alternate Nostril",

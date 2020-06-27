@@ -22,5 +22,5 @@ struct Intervention:Codable {
 // struct for tableviews
 struct InterventionSelectableItem{
     var _Inter: Intervention!
-    var _available: Bool?
+    var _available: Bool? //
 }

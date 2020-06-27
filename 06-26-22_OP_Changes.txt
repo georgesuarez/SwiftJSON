@@ -1,0 +1,16 @@
+IMPORTANT: 
+	- Check what we need to put under Georges name/developer ID so that we are not tied to anything.
+		- George must create developer account and then we are members 
+		- need it for testing/using applepay 
+
+Changes/Updates:
+	- PersonalInfoViewController:
+		- Check for internet access when trying to open this view if none then abort.
+	- Finish JSONs for Interventions and plan schema 
+		- use new video links.
+	- Finish ApplePay
+	- Fix view controller presentation
+		- Store
+		x Subscriptions: DONE!!
+	- Revamp Subscription view controller to be simpler?
+		- when upgrading tier level make sure to save change internally and in firebase 

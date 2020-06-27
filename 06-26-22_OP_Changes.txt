@@ -2,6 +2,12 @@ IMPORTANT:
 	- Check what we need to put under Georges name/developer ID so that we are not tied to anything.
 		- George must create developer account and then we are members 
 		- need it for testing/using applepay 
+	- Apple Pay
+	- Subscription	
+	- Test to ensure that firebase and internal data logic is working 
+	- test to ensure UI is uniform and looking good
+	- Implement JSON for content storage
+	- 
 
 Changes/Updates:
 	- PersonalInfoViewController:
@@ -15,3 +21,4 @@ Changes/Updates:
 	- Revamp Subscription view controller to be simpler?
 		- when upgrading tier level make sure to save change internally and in firebase 
 	- Revamp Intervention ViewControllers to access data from JSON files instead of ExerciseData model class
+		- Consider recreating all through code also look up tableview sizing for less or more content

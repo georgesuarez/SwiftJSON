@@ -1,0 +1,143 @@
+[
+    {
+        "T":"1",
+        "Interventions":[
+            {
+                "N":"Walk-Moderate-Pace",
+                "CS":["Text-Guide","Video-Guide"],
+                "L":"",
+                "TD":"We ask that you walk at 60-70% of your maximum capacity. You can figure this out with a simple formula called the Karvonen Formula for tracking your heart rate. This will leave you feeling like you had a good workout, but also keep you from feeling exhausted by the end of the walk. Moderation is the key! This will allow you to stay strong and injury free so that you can sustain your exercise routine over time. Please get your Doctor’s approval before you begin any exercise program."
+            },
+            {
+                "N":"Hiking-In-Nature",
+                "CS":["Text-Guide","Video-Guide"],
+                "L":"",
+                "TD":"In the ancient science of Yoga and Ayurveda, hiking in nature is highly prized for the mental and emotional benefits it can provide. Try to enjoy the beauty of nature and feel the awe of a vista, big tree or wildlife. Connecting with something larger than yourself each day will make you feel very expansive and full of light!"
+            },
+            {
+                "N":"Exercise at Sunrise",
+                "CS":["Text-Guide","Video-Guide"],
+                "L":"",
+                "TD":"Sunrise is a very special time of the day. It is peaceful, the birds are singing and the light is emerging. There is something peaceful and sacred about moving your body (especially in nature) as the sun comes up. This wonderful start to your day will remind you what is really important all day long."
+            },
+            {
+                "N":"Tai-Chi or Qi Gong",
+                "CS":["Text-Guide","Video-Guide"],
+                "L":"",
+                "TD":"These ancient ways to exercise keep your mind focused, your heart open and your body working hard. Don’t be fooled that this type of exercise looks slow and easy. In fact, you can really get a sweat going if you do it correctly. It would be good to find an experienced teacher to help you with your form and focus. These are subtle movements, much like yoga postures. It requires a good teacher to really understand how to do these exercises effectively."
+            },
+            {
+                "N":"Exercise with Friend/Pet",
+                "CS":["Text-Guide","Video-Guide"],
+                "L":"",
+                "TD":"There is nothing better than exercising with your best friend (dog or person)! It gives you a sense of connection, belonging and feeling loved…at the same time that you sweat and move. But keep in mind that your best friend must also want to get a good workout. Don’t let them pull you off the path and be lazy. Agree up front that you will encourage one another on the journey toward health and happiness!"
+            }
+        ]
+    },
+    {
+           "T":"2",
+           "Interventions":[
+               {
+                   "N":"Weights",
+                   "CS":["Text-Guide","Video-Guide"],
+                   "L":"",
+                   "TD":"Lifting Weights can help you to feel more grounded in your body. Lifting weights can help you fell all the different areas of your body and has potential to bring your attention and focus inward. You will feel strong sensations deep inside of your body as a result of lifting weights. Try it and see what happens! You may want to get a personal trainer to help you find the approproate routine for you."
+               },
+               {
+                   "N":"Pilates",
+                   "CS":["Text-Guide","Video-Guide"],
+                   "L":"",
+                   "TD":"Pilates is an excellent exercise that will help you get more in tune with your physical body. In Pilates we focus on breath, attention and movement, especially in the core muscles of your body. This inwardfocus and ability to feel your muscles strengthening  is a great way to get back in touch with your own body (and especially your core muscles). You may want to go to a Pilates instructor to find thecorrect exercises for you!"
+               },
+               {
+                   "N":"Slow-Walk",
+                   "CS":["Text-Guide","Video-Guide"],
+                   "L":"",
+                   "TD":"Slower walking (60% of your maximum) works your muscles differently than power walking. In power walking the larger muscles of the body take over. But in slower walking every little tendon, ligament, connective tissue and fascia have time to do their jobs. Plus, it creates a state of mindfulness to walk a little more slowly. How do you know if you are walking at 60% of your max.? You should still be able to hold a pleasant conversation with a friend while walking. Please get your Doctor’s approval before you begin any exercise program."
+               },
+               {
+                   "N":"Group Exercise",
+                   "CS":["Text-Guide","Video-Guide"],
+                   "L":"",
+                   "TD":"Did you know that your exercise compliance would be much higher if you schedule it with a friend? But there is even more good news! When we workout with friends we feel less isolated, more connection and like we are part of something larger than ourselves. Friendship and community are an important part of any workout routine. They make us feel included, safe and loved! Please get your Doctor’s approval before you begin any exercise program."
+               },
+               {
+                   "N":"Lower Body",
+                   "CS":["Text-Guide","Video-Guide"],
+                   "L":"",
+                   "TD":"There is something very grounding about working the larger muscles of your lower body in a rhythmical manner. This might include walking, hiking, indoor-biking, some forms of dance and many other forms of exercise. What types of exercise can you come up with that use primarily the lower body? Lower body exercises will leave you feeling grounded and strong. Please get your Doctor’s approval before you begin any exercise program."
+               }
+           ]
+       },
+    {
+        "T":"3",
+        "Interventions":[
+            {
+                "N":"Swimming",
+                "CS":["Text-Guide","Video-Guide"],
+                "L":"",
+                "TD":"Are you feeling red? If so, get yourself into the pool, river or ocean! Submerging yourself in cool water will change your mood and make you feel refreshed. It is a great way to exercise if you tend to get over-heated. Just make sure that you wear sunscreen in the pool! A sunburn could make you hot and agitated, which is the opposite feeling we are trying to help you create."
+            },
+            {
+                "N":"Water-Aerobics",
+                "CS":["Text-Guide","Video-Guide"],
+                "L":"",
+                "TD":"Water aerobics is a wonderful way to workout, feel refreshed and have some social time. You don’t have to put your head under water, so there is often a lot of talking and laughing with your friends while doing the exercises. Just like swimming, the cool water will help you to get a great workout, while bringing down the heat in your body and your mind."
+            },
+            {
+                "N":"Sailing/Kayaking",
+                "CS":["Text-Guide","Video-Guide"],
+                "L":"",
+                "TD":"Do you have access to a boat or kayak? If so, get your exercise outdoors with water all around you. The natural beauty will give you a mental boost. The water will keep you feeling like you can flow through life. And if you can bring a friend along, all the better!Sharing fun activities with loved-ones is the key to getting out of the Red Zone. Just be sure that you do not become too bossy and controlling while on the water!"
+            },
+            {
+                "N":"Surfing",
+                "CS":["Text-Guide","Video-Guide"],
+                "L":"",
+                "TD":"Have you ever met a surfer who constantly needs control? No, you have not. There is a reason for that. Surfers know from years in the water that mother-nature is in charge. They ride the waves of life in a smooth flow, responding rather than reacting to the waves. If you know how to surf, get out there! If you don’t surf already, try a lesson or two and see if you can’t find a new perspective. Realize that you are not in control of your life 100% of the time."
+            },
+            {
+                "N":"Never Exercise In Heat",
+                "CS":["Text-Guide","Video-Guide"],
+                "L":"",
+                "TD":"If you have a tendency to show up in the Red Zone often, you might notice that you are attracted to the heat. However, heat is not good for people who live in the Red Zone. Try to stay away from midday exercise, instead work out in early morning or after dark. Go into the AC for your workouts and bring a cool wet towel to keep you fresh."
+            }
+        ]
+    },
+    {
+        "T":"4",
+        "Interventions":[
+            {
+                "N":"Dancing",
+                "CS":["Text-Guide","Video-Guide"],
+                "L":"",
+                "TD":"Dancing is a way to bring your body into constant and joyfulmovement. Even if you think you cannot dance, trust me, YOU CAN! Do it at home with YouTube. Go to a dance party or to a gym! Express yourself through movement and choose some happy music to guide you. You will feel so different after you dance yourself to a joyful place!"
+            },
+            {
+                "N":"Biking",
+                "CS":["Text-Guide","Video-Guide"],
+                "L":"",
+                "TD":"Biking, especially outdoors, is a great way to get out of the Blue Zone. You are spending time in nature, you can admire the big blue sky, and you might even feel a sense of speed and expansion when on your bike. Remember being a child and riding your bike for the first time. Remember the freedom and joy that you felt? That is the state you can achieve with each and every bike ride outdoors."
+            },
+            {
+                "N":"Rowing",
+                "CS":["Text-Guide","Video-Guide"],
+                "L":"",
+                "TD":"Rowing (indoor or outdoor) is an excellent activity for Blue Zone because it relies so heavily on your upper body muscles. Sometimes we find that if you are feeling “blue”, using your upper body during exercise gives you a new sense of strength and confidence. It helps you to feel like you can take on the world again like a warrior! So rowing and all other sorts of upper body exercises are now on your list of things to try!"
+            },
+            {
+                "N":"Aerobics",
+                "CS":["Text-Guide","Video-Guide"],
+                "L":"",
+                "TD":"Something about the music and group energy of any type of aerobics class just gives you more motivation to do an hour of cardio. Even better, ask a friend to go with you to aerobics. Or get to know the instructor so that he or she notices when you skip. When you are in the Blue Zone you will have a tendency to skip your cardio. Don’t let it happen to you! Get to class today!"
+            },
+            {
+                "N":"High Intensity Intervals",
+                "CS":["Text-Guide","Video-Guide"],
+                "L":"",
+                "TD":"HITT is a great way to push yourself a little more than you normally would when you work out by yourself. But, be careful to listen to your body and not get injured, especially if you go to a class and feel the need to compete. While HITT training can take you out of the Blue Zone quickly and efficiently, you also want to stay injury free so that your workouts are sustainable over the long haul of life!"
+            }
+        ]
+    }
+    
+]

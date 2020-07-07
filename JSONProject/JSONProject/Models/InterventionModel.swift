@@ -9,18 +9,18 @@
 import Foundation
 
 struct InterventionType:Codable{
-    var T: String // this is needed for color zones type 1 = red..
-    var Interventions: [Intervention]?
+    var type: String // this is needed for color zones type 1 = red..
+    var interventions: [Intervention]?
 }
-struct Intervention:Codable {
-    var N:String
-    var CS:[String]?
-    var L: String
-    var TD: String
+struct Intervention: Codable {
+    var name: String
+    var choices: [String]?
+    var videoLink: String
+    var textDescription: String
 }
  
 // struct for tableviews
 struct InterventionSelectableItem{
     var _Inter: Intervention!
-    var _available: Bool? //
+    var _available: Bool? 
 }

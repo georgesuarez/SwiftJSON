@@ -7,8 +7,8 @@
 //
 
 
-struct User:Codable{
-    var name:String
-    var age:String
-    var profession:String
+struct User: Codable { 
+    var name: String
+    var age: String
+    var profession: String
 }
